@@ -9,3 +9,15 @@ Ce projet va non seulement vous permettre d’ajouter une fonction très pratiqu
 ### Fonctions autorisées
 
 ◦ read ◦ malloc ◦ free
+
+
+### Getting Started
+
+```
+git clone https://github.com/hoummadi/get_next_line.git
+cd get_next_line
+```
+
+### Subject
+
+fr.subject.pdf
